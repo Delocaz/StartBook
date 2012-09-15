@@ -1,0 +1,27 @@
+author: 'Delocaz (Creator of StartBook)'
+title: 'StartBook Test'
+text: 'Hello, and welcome to StartBook!
+
+If you are the owner of this server, be sure to open the config of StartBook and edit this text!
+
+If you are NOT the owner of this server, tell your admin he/she is lazy.
+
+
+This plugin will make players start with a book, with a text in it.
+
+The text can be defined in the config file, under the "text" entry.
+
+The plugin will automatically split the pages at the 255 character mark, so no need to worry about that.
+
+It''s a bit hard to make newlines, but if you look at how it''s done in the actual file you''ll understand.
+
+Your console will get spammed if you don''t escape apostrophes properly, use '''' instead of ''. Double quotes (") are okay to use normally, though.
+
+You can also use &1C&2o&3l&4o&5r &6c&7o&8d&9e&as&0 and &lvarious&r  &mtext&r &nformatting&r &ocodes&r.
+
+Look at the source of this book to see how it''s done.
+
+
+I hope you enjoy the plugin!
+
+    -Delocaz'

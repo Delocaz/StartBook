@@ -1,0 +1,9 @@
+main: me.Delocaz.StartBook.StartBook
+name: StartBook
+author: Delocaz
+version: 1.0
+commands:
+    startbook:
+        aliases: [sb, givestartbook, gsb, givesb]
+    reload:
+        aliases: [noreload]
